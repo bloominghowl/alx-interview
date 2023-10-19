@@ -4,6 +4,7 @@
 import sys
 import re
 
+
 def output(log: dict) -> None:
     """
     helper function to display stats

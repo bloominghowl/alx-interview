@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-log parsing
-"""
+"""log parsing"""
 
 import sys
 import re
